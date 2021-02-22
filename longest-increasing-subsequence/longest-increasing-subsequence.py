@@ -1,6 +1,6 @@
 class Solution(object):
     def lengthOfLIS(self, nums):
-        # dynamic programming
+        # dynamic programming solution
         
         dp = [1] * len(nums)
 
